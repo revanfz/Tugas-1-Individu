@@ -1,0 +1,24 @@
+* {
+  box-sizing: border-box;
+}
+.container {
+  margin: auto;
+  max-width: 653px;
+  max-height: 280px;
+}
+table {
+  width: 100%;
+  margin: auto;
+  text-align: center;
+}
+
+th {
+  background-color: #acc2d6;
+  color: white;
+  font-weight: bolder;
+  width: 20%;
+}
+
+.ganjil {
+  background-color: #e2eaef;
+}
