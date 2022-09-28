@@ -3,8 +3,8 @@
 }
 .container {
   margin: auto;
-  max-width: 653px;
-  max-height: 280px;
+  max-width: 280px;
+  max-height: 653px;
 }
 table {
   width: 100%;
